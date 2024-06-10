@@ -1,5 +1,7 @@
 # VHDL-voyage
 
-Using EDA playground for learning: https://edaplayground.com/
+Using [EDA playground](https://edaplayground.com/) and [VHDL examples](http://esd.cs.ucr.edu/labs/tutorial/) for learning.
+
+
 
 
