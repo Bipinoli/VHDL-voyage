@@ -1,2 +1,5 @@
 # VHDL-voyage
-Learning VHDL :)
+
+Using EDA playground for learning: https://edaplayground.com/
+
+
